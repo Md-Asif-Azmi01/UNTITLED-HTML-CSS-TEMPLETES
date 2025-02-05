@@ -1,0 +1,249 @@
+#navbar{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 60px; */
+
+}
+#logo img{
+    height: 48px;
+    width: 162px;
+    margin: 10px;
+    
+}
+#navbar ul{
+    display: flex;
+    /* flex-direction: column; */
+}
+#navbar ul li{
+    list-style: none;
+    font-size: 0.8rem;
+}
+#navbar ul a{
+    /* padding: 10px 10px; */
+    margin: 5px 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn{
+    /* position: absolute; */
+    /* right: 7pxpx; */
+    /* margin-top: 5px; */
+    /* margin-bottom: 20px; */
+    /* display: inline-block;  */
+    background-color: rgb(147, 32, 255);
+    border-radius: 10px; 
+    font-size: 0.8rem;
+    padding: 2px 2px;
+    width: 200px;
+}
+.login{
+    /* position: absolute; */
+    /* right: 100px; */
+    /* top: 22px; */
+    /* display: inline-block; */
+    background-color: rgb(146, 140, 134);
+    border-radius: 10px;
+    font-size: 0.8rem;
+    padding: 2px 2px;
+    width: 200px;
+}
+
+#start{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(206, 212, 218);
+}
+#start p{
+    color: rgb(146, 29, 255);
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#container img{
+    width: 250px;
+    height: 251px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+
+#container2{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 22px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+#container2 p{
+    align-items: center;
+    justify-content: center;
+}
+#box2 img{
+    height: 31px;
+    width: 100px;
+    /* margin: auto; */
+    /* padding: 34px; */
+}
+
+
+#container25{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.introo p{ 
+    color: rgb(146, 29, 255);
+}
+.about1{
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.position{
+    padding: 5px;
+    background-color: rgb(146, 30, 255);
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+#container3 img{
+    width: 80px;
+    height: 80px;
+    padding: 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.facee{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* /* border: 2px solid red;  */
+    padding: 34px;
+    margin: 15px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    background-color: rgb(223, 227, 231); 
+
+}
+
+
+
+#container4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#container4 p{
+    margin-top: 10px;
+    color: rgb(146, 30, 255);
+}
+#container4 img{
+    height: 167px;
+    width: 350px;
+    margin-top: 20px;
+}
+
+#container5{
+    /* border-radius: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+
+}
+
+.role1{
+    /* border-radius: 2px solid red;     */
+    padding: 20px;
+}
+.role11{
+    padding: 10px;
+    background-color: rgb(235, 231, 231);
+    margin: 10px;
+    /* width: 500px; */
+}
+.role2{ 
+    /* /* border-radius: 2px solid red;     */
+    padding: 20px;
+}
+.role22{
+    padding: 10px;
+    background-color: rgb(235, 231, 231);
+    margin-top: 6px;
+    /* width: 500px; */
+}
+
+.role3{
+    /* /* border-radius: 2px solid red;    */
+    padding: 20px; 
+}
+.role33{
+    padding: 10px;
+    background-color: rgb(235, 231, 231);
+    margin-top: 6px;
+    /* width: 500px; */
+}
+
+
+
+#container6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#container6 img{
+    height: 125px;
+    width: 350px;
+    margin-top: 20px;
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.middle{
+    margin-top: 40px;
+}
+
+.form input{
+    border-radius: 20px;
+    background-color: rgb(209, 233, 255);
+    width: 200px;
+    text-align: center;
+    margin: 5px;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.btn11{
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 100px;
+    margin-bottom: 40px;
+    background-color: rgb(149, 36, 255);
+}
