@@ -58,7 +58,7 @@
     padding: 10px 20px;
     align-items: center;
     justify-content: center;
-    background-color: rgb(206, 212, 218);
+    background-color: rgb(209, 232, 255);
 }
 #start p{
     color: rgb(146, 29, 255);
@@ -91,7 +91,7 @@
     align-items: center;
     justify-content: center;
 }
-#box2 img{
+.box2 img{
     height: 31px;
     width: 100px;
     /* margin: auto; */
@@ -99,7 +99,7 @@
 }
 
 
-#container25{
+#container3{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -120,7 +120,7 @@
     border-radius: 20px;
 }
 
-#container3 img{
+#container4 img{
     width: 80px;
     height: 80px;
     padding: 34px;
@@ -142,29 +142,29 @@
     margin-top: 10px;
     margin-bottom: 5px;
     border-radius: 10px;
-    background-color: rgb(223, 227, 231); 
+    background-color: rgb(208, 226, 244); 
 
 }
 
 
 
-#container4{
+#container5{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-#container4 p{
+#container5 p{
     margin-top: 10px;
     color: rgb(146, 30, 255);
 }
-#container4 img{
+#container5 img{
     height: 167px;
     width: 350px;
     margin-top: 20px;
 }
 
-#container5{
+#container6{
     /* border-radius: 2px solid red; */
     display: flex;
     flex-direction: column;
@@ -208,13 +208,13 @@
 
 
 
-#container6{
+#container7{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-#container6 img{
+#container7 img{
     height: 125px;
     width: 350px;
     margin-top: 20px;
